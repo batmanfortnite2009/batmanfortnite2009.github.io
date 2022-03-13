@@ -14,3 +14,13 @@ header {
   padding: 0px;
   font-family: monospace;
 }
+
+.ceo {
+  align-items: center;
+  margin: 30px;
+}
+
+.ceo_block {
+  outline-style: solid;
+  border-radius: 15px;
+}
